@@ -1,7 +1,7 @@
 import requests
 import os
 from twilio.rest import Client
-sid = "AC22a1c00657e00c06ddb2c7de62507ad4"
+sid = "x"
 token = os.environ.get("AUTH_TOKEN")
 # +15076153535
 MY_LAT = 38.575
